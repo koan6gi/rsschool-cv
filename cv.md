@@ -45,9 +45,9 @@
 
  #### Education
 
- ##### BSUIR
-
-- 2023 - present
+> ##### BSUIR
+>
+> - 2023 - present
 
 #### Languages
 
