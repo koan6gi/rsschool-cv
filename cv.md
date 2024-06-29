@@ -1,7 +1,7 @@
 
 # ROMAN GOLOVKO
 
-#### Contact Info:
+#### Contact Info
 
 > Email: rgolovkl6@gmail.com
 >
@@ -18,7 +18,7 @@
     because want to get new knowledge and skills in the web technologies sphere.
 
 
-#### Skills:
+#### Skills
 
 > - C++
 >
@@ -42,3 +42,10 @@
 >       return count1;
 >   }
 > ```
+
+ #### Education
+
+ ##### BSUIR
+
+- 2023 - present
+
