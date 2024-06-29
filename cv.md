@@ -16,4 +16,12 @@
 
     I'm 18 years old student from Belarus, study at the BSUIR, attend this course,
     because want to get new knowledge and skills in the web technologies sphere.
-    
+
+
+#### Skills:
+
+> - C++
+>
+> - Delphi
+>
+> - Flat Assembly
