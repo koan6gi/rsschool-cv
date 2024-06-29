@@ -43,7 +43,7 @@
 >   }
 > ```
 
- #### Education
+#### Education
 
 > ##### BSUIR
 >
