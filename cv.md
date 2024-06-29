@@ -49,3 +49,8 @@
 
 - 2023 - present
 
+#### Languages
+
+> - *Russsian (Native)*
+>
+> - *English (Intermediate)*
