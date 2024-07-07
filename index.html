@@ -35,7 +35,7 @@
       <pre>
         unsigned int countBits(unsigned long long n){
             unsigned long long count1 = 0;
-                for(unsigned long long i = 1; i<=n; i = i*2){
+                for(unsigned long long i = 1; i&lt;=n; i = i*2){
                     if((i & n) == i) count1++;
                 }
             return count1;
